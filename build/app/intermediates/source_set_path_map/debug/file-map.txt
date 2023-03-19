@@ -1,0 +1,12 @@
+com.example.whatsapp-jetified-window-java-1.0.0-beta04-0 C:\Users\Faz AHMED\.gradle\caches\transforms-3\006d93cd422dbc43e89591147c2de572\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.whatsapp-core-1.6.0-1 C:\Users\Faz AHMED\.gradle\caches\transforms-3\4ca28c4a71705f8a687c69dda140a277\transformed\core-1.6.0\res
+com.example.whatsapp-jetified-annotation-experimental-1.1.0-2 C:\Users\Faz AHMED\.gradle\caches\transforms-3\8965c941cf4bee4d72541b965c7c9d39\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.whatsapp-jetified-window-1.0.0-beta04-3 C:\Users\Faz AHMED\.gradle\caches\transforms-3\dee59bb480020f42d53c2ea15e4501f7\transformed\jetified-window-1.0.0-beta04\res
+com.example.whatsapp-debug-4 E:\Whatsapp\android\app\src\debug\res
+com.example.whatsapp-main-5 E:\Whatsapp\android\app\src\main\res
+com.example.whatsapp-pngs-6 E:\Whatsapp\build\app\generated\res\pngs\debug
+com.example.whatsapp-resValues-7 E:\Whatsapp\build\app\generated\res\resValues\debug
+com.example.whatsapp-rs-8 E:\Whatsapp\build\app\generated\res\rs\debug
+com.example.whatsapp-mergeDebugResources-9 E:\Whatsapp\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.whatsapp-mergeDebugResources-10 E:\Whatsapp\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.whatsapp-merged_res-11 E:\Whatsapp\build\app\intermediates\merged_res\debug
